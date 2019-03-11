@@ -1,0 +1,55 @@
+{
+    "manifestVersion": 1,
+    "id": "tag-graph",
+    "version": "0.0.1",
+    "name": "Tag Graph",
+    "publisher": "Martijn Beenker",
+    "description": "Graphic representation of a count of tags from Azure DevOps query results.",
+    "targets": [
+        {
+
+        }
+    ],
+    "icons": {
+        "default": "img/logo.png"
+    },
+    "scopes": [
+
+    ],
+    "categories": [
+        "Azure Boards"
+    ],
+    "branding": {
+        "color": "rgb(34, 34, 34)",
+        "theme": "dark"
+    },
+    "contents": {
+        "details": {
+            "path": "README.md"
+        },
+        "licence": {
+            "path": "LICENCE"
+        }
+    },
+    "links": {
+
+    },
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/LowerKees/azure-dev-ops-ext"
+    },
+    "contributions": [
+
+    ],
+    "files": [
+        {
+            "path": "hello-world.html",
+            "addressable": true
+        },
+        {
+            "path": "",
+            "addressable": true,
+            "packagePath": "scripts"
+        }
+    ]
+}
